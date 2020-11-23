@@ -1,1 +1,3 @@
-Data example: Example data available under request (too big to be made available via github)
+Data example: Example data available with the whole release (too big to be made available via github directly)
+Follow the link here to get the example dataset: 
+https://github.com/oliviermougin/T1-mapping-IR-MS-EPI/releases/download/0.00/data_example.zip
